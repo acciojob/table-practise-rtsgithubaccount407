@@ -4,4 +4,12 @@ table,th,td{
 }
 table{
 	background-color:yellow;
+	
+}
+p{
+	position:relative;
+	top:12px;
+	left:32px;
+	font-size:17px;
+	font-weight:bold;
 }
